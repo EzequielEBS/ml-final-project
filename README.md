@@ -1,2 +1,2 @@
 # ml-final-project
-Final project for the subject of Machine Learning probabilistic generative models
+Final project for the subject of Machine Learning based on probabilistic generative models
